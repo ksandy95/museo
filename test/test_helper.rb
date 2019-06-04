@@ -1,0 +1,8 @@
+require 'pry'
+require 'minitest/pride'
+require 'minitest/autorun'
+require './lib/artist'
+require './lib/photograph'
+require './lib/curator'
+require './lib/file_io'
+require 'csv'
